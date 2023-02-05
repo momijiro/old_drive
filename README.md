@@ -4,7 +4,7 @@
 Twitterを用いた高齢運転者に関する研究の分析コードです。
 
 ## 内容
-  - input: 
+  - input
     - yng_drive.txt: 若年運転データ(非公開)
     - mid_drive.txt: 中年運転データ(非公開)
     - old_drive.txt: 高齢運転データ(非公開)
