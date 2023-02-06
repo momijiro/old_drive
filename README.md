@@ -1,5 +1,5 @@
 # ond_drive
-- 最終更新:2023/02/04
+- 最終更新:2023/02/06
 
 Twitterを用いた高齢運転者に関する研究の分析コードです。
 
@@ -15,7 +15,7 @@ Twitterを用いた高齢運転者に関する研究の分析コードです。
   - code
     - drive_analysis.ipynb: 前処理コード
     - drive_analysis.ipynb: 分析コード
-    - drive_visualization.ipynb: 分析コード(未公開)
+    - drive_visualization.ipynb: 可視化コード
   - output
     - texts_count.csv: 各データの日付別テキスト出現数
     - texts_freq.csv: 各データの日付別テキスト出現率
