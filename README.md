@@ -11,7 +11,7 @@ Twitterを用いた高齢運転者に関する研究の分析コードです。
   - data: 分析に用いるサブデータを格納
     - base_count.xlsx: 2010-2021年の日本における全ツイート数
     - drive_user_dict.csv: 本研究の形態素解析に使用した辞書
-    - nrc_emotion_lexicon: 本研究の極性分析に使用した辞書 (https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm)
+    - nrc_emotion_lexicon: 本研究の極性分析に使用した辞書 [1]
   - code
     - drive_analysis.ipynb: 前処理コード
     - drive_analysis.ipynb: 分析コード
@@ -38,4 +38,5 @@ Twitterを用いた高齢運転者に関する研究の分析コードです。
 - データ取得等の問題により、一部コード・データは未公開とさせていただきます。
 - 質問・改善点などございましたら 中西 (k.momijiro@gmail.com） までご連絡ください。
 
-
+### 参考文献
+[1] https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm
